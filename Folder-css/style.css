@@ -1,0 +1,162 @@
+
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    text-transform: capitalize;
+}
+
+header{
+    background-color: rgb(221, 221, 221);
+    border-width: 2px;
+    border-color: rgb(221, 221, 221);
+    border-style: solid;
+    border-radius: 3px;
+    padding: 15px;
+    margin: 0px 0.5%;
+}
+
+.header-div-title{
+    padding: 15px;
+    text-align: center;
+    color: rgb(9, 138, 224);
+    background-color: rgb(226, 226, 226);
+    border-width: 2px;
+    border-color: rgb(9, 138, 224);
+    border-style: solid;
+    border-radius: 3px;
+    font-size: 3.5vw;
+    margin: 0 25%;
+}
+
+form{
+    padding: 15px;
+    margin: 9% 25%;
+    background-color: rgb(230, 230, 230);
+    border-width: 2px;
+    border-color: rgb(9, 138, 224);
+    border-style: solid;
+    border-radius: 6px;
+}
+
+.section-div-title{
+    color: rgb(9, 138, 224);
+    padding: 10px 10px 20px 10px;
+    font-size: 2.5vw;
+    text-decoration: underline;
+}
+
+/* -*-data-one-*- */
+
+.div-label-one{
+    background-color: rgb(220, 220, 220);
+    border-width: 2px;
+    border-color: rgb(9, 138, 224);
+    border-style: solid;
+    border-radius: 5px;
+    background-color: rgb(221, 221, 221);
+}
+
+.label-one{
+    width: auto;
+    padding: 5px;
+    font-size: 2vw;
+    color: rgb(9, 138, 224);
+    background-color: rgb(220, 220, 220);
+    border-width: 2px;
+    border-color: rgb(9, 138, 224);
+    border-style: solid;
+    border-radius: 10px;
+    margin: 0px 29% 0px 42%;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.input-own{
+    margin: 5% 27%;
+    padding: 7px;
+    font-size: 1.5vw;
+    border-width: 3px;
+    border-color: rgb(9, 138, 224);
+    border-style: none none solid ;
+    color: rgb(9, 138, 224);
+    text-decoration: underline;
+}
+
+.input-own:focus{
+    outline: none;
+}
+
+/* -*-data-two-*- */
+
+.div-label-two{
+    background-color: rgb(220, 220, 220);
+    border-width: 2px;
+    border-color: rgb(9, 138, 224);
+    border-style: solid;
+    border-radius: 5px;
+    background-color: rgb(221, 221, 221);
+    text-decoration: underline;
+}
+
+.label-two{
+    padding: 5px;
+    font-size: 2vw;
+    color: rgb(9, 138, 224);
+    background-color: rgb(220, 220, 220);
+    border-width: 2px;
+    border-color: rgb(9, 138, 224);
+    border-style: solid;
+    border-radius: 10px;
+    margin: 0px 40%;
+    cursor: pointer;
+    text-decoration: underline;
+
+}
+
+.input-two{
+    margin: 5% 27%;
+    padding: 7px;
+    font-size: 1.5vw;
+    border-width: 3px;
+    border-color: rgb(9, 138, 224);
+    border-style: none none solid ;
+    color: rgb(9, 138, 224);
+    text-decoration: underline;
+}
+
+.input-two:focus{
+    outline: none;
+}
+
+.submit{
+    background-color: rgb(224, 220, 220);
+    padding: 10px;
+    margin: 0 42%;
+    color: rgb(9, 138, 224);
+    font-size: 2.5vw;
+    border-width: 3px;
+    border-color: rgb(9, 138, 224);
+    border-style: solid ;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+.submit:hover{
+    background-color: rgb(215, 215, 215);
+}
+
+.div-div{
+    font-size: 1.5vw;
+}
+
+.link-one{
+    color: rgb(9, 138, 224);
+    text-decoration: none;
+}
+.link-one:hover{
+    color: rgb(0, 108, 194);
+    text-decoration: underline;
+}
